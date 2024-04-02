@@ -1,7 +1,24 @@
 #Projeto de Análise Preditiva de Preços de Imóveis em Boston
 
 ##Descrição:
-Este repositório contém um projeto de análise preditiva de preços de imóveis em Boston, usando três métodos de regressão: Regressão Linear do SKLEARN, Support Vector Regression do SKLEARN e Decision Tree Regression do XGBoost. O objetivo principal deste projeto é aplicar o modelo CRISP-DM (Cross-Industry Standard Process for Data Mining) para desenvolver um pipeline eficaz de análise de dados.
+
+Regresssão utilizando o Houses_Boston_Training_Regression.ipynb: Projeto de Regressão utilizando uma base de dados chamada Houses_Boston_Training_Regression.
+
+Regressão_Linear_Multipla_Sklearn.ipynb: Estudo de Regressão linear múltipla com foco na biblioteca sklearn.
+
+Regressão_Linear_Múltipla.ipynb: Estudo de Regressão linear múltipla.
+
+Regressão_Linear_Simples.ipynb: Estudo de Regressão linear Simples.
+
+Regressão_Linear_Simples_Sklearn.ipynb: Estudo de Regressão linear simples com foco na biblioteca sklearn.
+
+Regressão_não_linear.ipynb: Estudo de uma regressão não linear.
+
+Variáveis_Categóricas.ipynb: Estudo de regressão linear com variáveis categóricas.
+
+O_que_é_Data_Cleaning_Data_Wrangling.ipynb: Estudo de como limpar e oranizar os dados para análise.
+
+AutoML.ipynb: Estudo de um método alternativo automatizado para regressões.
 
 ##Recursos Principais:
 
